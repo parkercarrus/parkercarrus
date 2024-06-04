@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @parkercarrus
-- 🌱 I’m currently learning data science and artificial intelligence
-- ⚙️ Working on deep-learning models to optimize environmental sustainability
 - 📫 https://www.linkedin.com/in/parker-carrus-8380a9241/
 
 <!---
